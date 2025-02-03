@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.wipro.java;
+package com.wipro.java.oops;
 
 /**
  * 
@@ -9,7 +9,7 @@ package com.wipro.java;
 public class Flower {
 
 	
-	// member variables
+	// member variables 
 	String name;
 	String color;
 
