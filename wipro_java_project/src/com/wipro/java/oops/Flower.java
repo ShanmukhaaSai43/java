@@ -9,7 +9,7 @@ package com.wipro.java.oops;
 public class Flower {
 
 	
-	// member variables
+	// member variables 
 	String name;
 	String color;
 

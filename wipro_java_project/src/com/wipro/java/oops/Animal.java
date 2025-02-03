@@ -53,7 +53,7 @@ public class Animal {
 
 	@Override
 	public String toString() {
-		return "Animal [breed=" + breed + ", age=" + age + ", weight=" + weight + ", color=" + color + "]";
+		return "Animal [breed= " + breed + ", age=" + age + ", weight=" + weight + ", color=" + color + "]";
 	}
 
 	

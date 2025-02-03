@@ -4,7 +4,7 @@
 package com.wipro.java.oops;
 
 /**
- *  Parent class is Employee
+ *  Parent class is Employee 
  *  Child class id Developer
  *  extends is a keyword
  */
