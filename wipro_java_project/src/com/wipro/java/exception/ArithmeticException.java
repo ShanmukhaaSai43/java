@@ -6,7 +6,7 @@ package com.wipro.java.exception;
 /**
  * Writing a mistaken code in try block. 
  * Catching the exception in catch block.
- * "finally" block is used to execute the code irrespective of exception. 
+ * "finally" block is used to execute the code irrespective of exception.
  */
 public class ArithmeticException {
 
