@@ -80,7 +80,7 @@ public class Collection {
 
 	public void linkedList() {
 
-		System.out.println("Linked List method called");
+		System.out.println("Linked List method called.");
 		int size = 7;
 		List<Integer> list = new LinkedList<Integer>();
 
