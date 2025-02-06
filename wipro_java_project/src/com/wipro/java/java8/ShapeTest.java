@@ -3,25 +3,25 @@ package com.wipro.java.java8;
 
 	@FunctionalInterface
 	interface Shape {
-	    // Single abstract method with return type
+	    //abstract method
 	    double area();
 
-	    // Default method 1 with return type
+	    // Default method1
 	    default String display() {
 	        return "Displaying shape details...";
 	    }
 
-	    // Default method 2 with return type
+	    // Default method2
 	    default String info() {
 	        return "This is a shape interface.";
 	    }
 
-	    // Static method 1 with return type
+	    // Static method1
 	    static String staticMethod1() {
 	        return "Static method1 executed in shape interface";
 	    }
 
-	    // Static method 2 with return type
+	    // Static method2
 	    static String staticMethod2() {
 	        return "Static method1 executed in shape interface";
 	    }
@@ -73,7 +73,6 @@ package com.wipro.java.java8;
 
 public class ShapeTest {
 
-	// Main class to test
 	    public static void main(String[] args) {
 			Shape square = new Square(5);
 	        Shape circle = new Circle(4);
