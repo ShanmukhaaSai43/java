@@ -1,4 +1,4 @@
-package com.wipro.java.designpattern.treemap;
+package com.wipro.java.treemap;
 
 //Java Program to Demonstrate TreeMap
 //using the SortedMap Constructor

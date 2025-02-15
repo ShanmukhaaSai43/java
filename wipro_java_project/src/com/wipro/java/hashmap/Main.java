@@ -1,4 +1,4 @@
-package com.wipro.java.designpattern.hashmap;
+package com.wipro.java.hashmap;
 
 import java.security.KeyStore.Entry;
 import java.util.HashMap;

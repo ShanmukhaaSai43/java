@@ -1,4 +1,4 @@
-package com.wipro.java.designpattern.treemap;
+package com.wipro.java.treemap;
 
 import java.util.TreeMap;
 
